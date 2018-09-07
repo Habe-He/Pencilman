@@ -20,10 +20,12 @@ cc.Class({
         this.Line_0 = drawPanel.getChildByName("S_0");
         // cc.log(this.Line_0);
         var visibleSize = Tool.getVisibleSize();
+        cc.log("visible Size", visibleSize);
         this.moveWidth = visibleSize.width - this.Line_0.x * 2;
         cc.log("this.moveWidth =", this.moveWidth);
 
         this.Line_1 = drawPanel.getChildByName("S_1");
+        cc.log("y = " + this.Line_1.y);
         this.moveHeight = visibleSize.height - (visibleSize.height - this.Line_1.y) * 2;
         cc.log("this.moveHeight =", this.moveHeight);
 
