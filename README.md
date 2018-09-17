@@ -7,3 +7,9 @@
 * Amazon    就是亚马逊，他们的机动能力仅次于英雄，他们可以移动3
 * Hero      就是英雄，他是全方位的棋子，在全局游戏中具有举足轻重的地位
 * King      最后的就是王，这个我就不用多解释了
+
+
+| ICON | 名称 | 介绍 |
+| :------: | :------: | :------: |
+| ![Savage](http://pf6qftn2a.bkt.clouddn.com/Savage.png) | Savage(士兵) | 基本单位，只能往各个方向走两步 |
+| ![Savage](http://pf6qftn2a.bkt.clouddn.com/Savage.png) | Savage(士兵) | 基本单位，只能往各个方向走两步 |
